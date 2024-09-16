@@ -1,3 +1,3 @@
 import os
 
-USE_GPU = os.getenv("use_gpu", "0") == "1"
+USE_GPU = os.getenv("USE_GPU", "0") == "1"
