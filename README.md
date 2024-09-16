@@ -35,7 +35,7 @@ docker build -t entities_extractor:stable .
 Запуск:
 
 ```bash
-docker run -p 7890:7890 entities_extractor:dev
+docker run -p 7890:7890 entities_extractor:stable
 ```
 
 Пример docker-compose файла
